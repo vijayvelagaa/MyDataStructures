@@ -97,11 +97,11 @@ public class SortedArrayToBinarySearchTree {
             this.val = val;
         }
 
-        TreeNode(int val, TreeNode lef, TreeNode right) {
+       /* TreeNode(int val, TreeNode lef, TreeNode right) {
             this.val = val;
             this.left = lef;
             this.right= right;
-        }
+        }*/
     }
 
 
